@@ -1,4 +1,4 @@
-# Dry::Struct::Rails
+# Dry::Struct::Rails [![Build Status](https://travis-ci.org/fnordfish/dry-struct-rails.svg?branch=master)](https://travis-ci.org/fnordfish/dry-struct-rails)
 
 Railtie gem to let `dry-struct` cope with Rails' reloading.
 
