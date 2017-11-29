@@ -12,6 +12,7 @@ Gem::Specification.new do |spec|
   spec.summary       = %q{Dry::Struct railties}
   spec.description   = %q{Rails reloading for `dry-struct`}
   spec.homepage      = "https://github.com/fnordfish/dry-struct-rails"
+  spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0").reject do |f|
     f.match(%r{^(test|spec|features)/})
